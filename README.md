@@ -11,4 +11,4 @@ https://scrimmyfs.github.io/Horiseon-Marketing-Page/
 
 # Screenshot of website
 
-![alt text]Challlenge-one\assets\images\Screenshot of website.PNG
+![Screenshot of finished product].Challlenge-one\assets\images\Screenshot of website.PNG
